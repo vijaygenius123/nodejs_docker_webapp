@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_docker_webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaygenius123/nodejs_docker_webapp.git"
+  },
+  "keywords": [],
+  "author": "Vijayaraghavan Sundararaman <vijaygenius123@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vijaygenius123/nodejs_docker_webapp/issues"
+  },
+  "homepage": "https://github.com/vijaygenius123/nodejs_docker_webapp#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
